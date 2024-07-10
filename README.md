@@ -1,5 +1,9 @@
 # Poinster
 
+![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Poinster es un proyecto que realiza cálculos para el cifrado y descifrado de mensajes, utilizando un hash conformado por números.
 
 ## Tecnologías Utilizadas
