@@ -1,1 +1,3 @@
-console.log('Hola Mundo');
+const { unique } = require('./data/module');
+
+console.table(unique);
