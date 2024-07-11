@@ -1,13 +1,8 @@
 const Poinster = require('./logic/structure');
 
 const p = new Poinster();
-const message = 'Hola Mundo';
-const cifrar = p.encryptText(message);
-const destyKey = p.makeDesty(cifrar);
-const onquerKey = p.makeOnquer(cifrar);
 
-console.log(`> Mensaje: ${message}`);
-console.log(`> HASH: ${cifrar}`);
-console.log(destyKey);
-console.log(onquerKey);
-console.log(p.totalOnquer(onquerKey));
+const cipher = p.encryptText('Hola Mundo');
+const decrypt = p.decryptText('1619664312661932171925071925321266615661');
+
+console.log(cipher);
