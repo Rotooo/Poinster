@@ -1,4 +1,4 @@
-const { unique } = require('../data/module');
+const { unique } = require('../modules/module');
 
 class Poinster{
   constructor(Onquer = [], Desty = []){

@@ -1,3 +1,5 @@
+![Icon](/bin/Poinster.png)
+
 # Poinster
 
 ![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-blue)
